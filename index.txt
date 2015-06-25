@@ -2,4 +2,8 @@ Hello world!!!
 loren
 for github
 new
+<<<<<<< HEAD
 for new Branch
+=======
+master
+>>>>>>> master
